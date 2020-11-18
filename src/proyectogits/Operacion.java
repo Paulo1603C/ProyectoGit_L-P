@@ -10,21 +10,15 @@ package proyectogits;
  * @author usuario1
  */
 public class Operacion {
-
-<<<<<< HEAD
-
+    //Metodo Suma
 
 public int suma( int num1, int num2 ){
    int res = num1+num2;
    return res;
 }
-
-======
-
+//Metodo Resta
     public int resta( int a,int b ){
         return a-b;
     }
-
->>>>>>> origin/feature2 
    
 }
