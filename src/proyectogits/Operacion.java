@@ -11,15 +11,20 @@ package proyectogits;
  */
 public class Operacion {
 
+<<<<<< HEAD
+
 
 public int suma( int num1, int num2 ){
    int res = num1+num2;
    return res;
 }
 
+======
+
     public int resta( int a,int b ){
         return a-b;
     }
 
-    
+>>>>>>> origin/feature2 
+   
 }
